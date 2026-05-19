@@ -1,0 +1,22 @@
+# Secrets — NEVER commit
+.streamlit/secrets.toml
+.scalp_creds.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Misc
+.bulkowski_*
+*.log
