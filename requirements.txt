@@ -6,3 +6,6 @@ smartapi-python>=1.5.0
 pyotp>=2.9.0
 websocket-client>=1.7.0
 keyring>=24.0.0
+logzero>=1.7.0
+requests>=2.31.0
+six>=1.16.0
